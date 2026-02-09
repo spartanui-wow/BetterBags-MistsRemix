@@ -14,7 +14,7 @@ local MetaGems = {
 	219386, -- Locus of Power
 	216695, -- Lifestorm
 	221982, -- Bulwark of the Black Ox
-	220120 -- Soul Tether
+	220120, -- Soul Tether
 }
 
 local CogWheels = {
@@ -34,7 +34,7 @@ local CogWheels = {
 	218004, -- Vanish
 	216630, -- Heroic Leap
 	218005, -- Stampeding Roar
-	218046 -- Spirit Walk
+	218046, -- Spirit Walk
 }
 
 local Tinker = {
@@ -74,7 +74,7 @@ local Tinker = {
 	217903, -- Vindication
 	217907, -- Warmth
 	212760, -- Wildfire
-	219516 -- Windweaver
+	219516, -- Windweaver
 }
 
 local Prismatic = {
@@ -109,7 +109,7 @@ local Prismatic = {
 	220370, -- Stalwart Pearl
 	211125, -- Sustaining Emerald
 	211124, -- Swift Opal
-	220374 -- Versatile Diamond
+	220374, -- Versatile Diamond
 }
 
 local BuffItems = {
@@ -119,7 +119,7 @@ local BuffItems = {
 	217606, -- Timeless Scroll of Fortitude
 	217608, -- Timeless Scroll of Battle Shout
 	217730, -- Timeless Scroll of Chaos
-	217901 -- Timeless Drums
+	217901, -- Timeless Drums
 }
 
 local UtilityItems = {
@@ -129,13 +129,13 @@ local UtilityItems = {
 	219940, -- Meteor Chip
 	217930, -- Nostwin's Voucher
 	217906, -- Drake Treat
-	217925 -- Bottle of Bees
+	217925, -- Bottle of Bees
 }
 
 local ConsumableItems = {
 	217904, -- Timerunner's Draught of Power
 	217905, -- Timerunner's Draught of Health
-	211254 -- Timerunner's Bandage
+	211254, -- Timerunner's Bandage
 }
 
 local Threads = {
@@ -169,7 +169,7 @@ local Threads = {
 	219276, -- infinite thread of critical strike
 	219278, -- infinite thread of speed
 	219277, -- infinite thread of haste
-	219280 -- infinite thread of mastery
+	219280, -- infinite thread of mastery
 }
 
 local colorPrefix = '|cff00FF98'

@@ -1,4 +1,4 @@
-## Interface: 110005
+## Interface: 110205
 ## Title: BetterBags - Mists Remix
 ## Notes: Filters all gems and usable items for Mists Remix
 ## IconTexture: Interface/Addons/BetterBags-Openable/Icon
@@ -7,7 +7,18 @@
 ## X-Category: Bags & Inventory
 ## X-Curse-Project-ID: 1021669
 ## X-Wago-ID: qGYMkMGg
-## X-Github: https://github.com/Wutname1/BetterBags-MistsRemix
+## X-Github: https://github.com/spartanui-wow/BetterBags-MistsRemix
 ## Dependencies: BetterBags
+## Category: Inventory
+## Category-deDE: Inventar
+## Category-esES: Inventario
+## Category-esMX: Inventario
+## Category-frFR: Inventaire
+## Category-itIT: Inventario
+## Category-koKR: 소지품
+## Category-ptBR: Inventário
+## Category-ruRU: Инвентарь
+## Category-zhCN: 物品栏
+## Category-zhTW: 物品欄
 
 main.lua

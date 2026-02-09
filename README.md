@@ -1,8 +1,8 @@
 # BetterBags - Mists Remix
 
-[![Issues](https://img.shields.io/github/issues/wutname1/BetterBags-MistsRemix?style=for-the-badge)](https://github.com/Wutname1/BetterBags-MistsRemix/issues)
+[![Issues](https://img.shields.io/github/issues/spartanui-wow/BetterBags-MistsRemix?style=for-the-badge)](https://github.com/spartanui-wow/BetterBags-MistsRemix/issues)
 [![Discord](https://img.shields.io/discord/265564257347829771.svg?logo=discord&style=for-the-badge)](https://discord.gg/Qc9TRBv)
-[![GitHub release](https://img.shields.io/github/release/wutname1/BetterBags-MistsRemix.svg?&style=for-the-badge)](https://www.curseforge.com/wow/addons/betterbags-mists-remix)
+[![GitHub release](https://img.shields.io/github/release/spartanui-wow/BetterBags-MistsRemix.svg?&style=for-the-badge)](https://www.curseforge.com/wow/addons/betterbags-mists-remix)
 
 ## Overview
 

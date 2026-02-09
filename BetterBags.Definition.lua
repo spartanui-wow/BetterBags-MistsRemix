@@ -60,7 +60,7 @@ const.BAG_KIND = {
 	UNDEFINED = -1,
 	BACKPACK = 0,
 	BANK = 1,
-	REAGENT_BANK = 2
+	REAGENT_BANK = 2,
 }
 
 ---@enum ExpansionType
@@ -74,7 +74,7 @@ const.EXPANSION_TYPE = {
 	LE_EXPANSION_LEGION = 6,
 	LE_EXPANSION_BATTLE_FOR_AZEROTH = 7,
 	LE_EXPANSION_SHADOWLANDS = 8,
-	LE_EXPANSION_DRAGONFLIGHT = 9
+	LE_EXPANSION_DRAGONFLIGHT = 9,
 }
 
 -- ItemLinkInfo contains all the information parsed from an item link.
@@ -111,11 +111,9 @@ local categories = {}
 -- which at game load time, is every item.
 ---@param id string A unique identifier for the category function. This is not used for the category name!
 ---@param func fun(data: ItemData): string|nil The function to call to get the category name for an item.
-function categories:RegisterCategoryFunction(id, func)
-end
+function categories:RegisterCategoryFunction(id, func) end
 
 -- AddItemToCategory adds an item to a custom category by its ItemID.
 ---@param id number The ItemID of the item to add to a custom category.
 ---@param category string The name of the custom category to add the item to.
-function categories:AddItemToCategory(id, category)
-end
+function categories:AddItemToCategory(id, category) end
